@@ -10,12 +10,12 @@
 - Bucket List
 - https://why.az/
 - Campaign platform app
- - Choose some features we like from for example Mailchimp
- - Making it very user friendly is main goal
+- Choose some features we like from for example Mailchimp
+    - Making it very user friendly is main goal
 - Quiz app
- - Example: [kahoot](https://kahoot.com/welcomeback/)
- - Idea: automatically create questions on topic, use wikipedia
- - Idea: share your Quiz on social media
+    - Example: [kahoot](https://kahoot.com/welcomeback/)
+    - Idea: automatically create questions on topic, use wikipedia
+    - Idea: share your Quiz on social media
 
 ### Todo
 - [ ] Create Trello
